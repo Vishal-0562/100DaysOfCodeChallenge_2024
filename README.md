@@ -1,2 +1,2 @@
 # 100DaysOfCodeChallenge_2024
-#100DaysOfCodeChallenge - Join my coding journey! Embracing Web Development &amp; DSA. Daily progress, challenges, and triumphs.
+Join my coding journey! Embracing Web Development &amp; DSA. Daily progress, challenges, and triumphs.
